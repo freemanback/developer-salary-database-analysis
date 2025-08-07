@@ -29,7 +29,7 @@ Followed CRISP-DM methodology for the project:
 
 ## Files
 
-- `Annotated_Developer_Salary_Database_Analysis.ipynb`: Main notebook with code, visualizations, and model.
+- `Developer_Salary_Database_Analysis.ipynb`: Main notebook with code, visualizations, and model.
 - `survey_results_public.csv`: Raw survey data from Stack Overflow.
 - `survey_results_schema.csv`: Schema file explaining each column.
 
