@@ -1,7 +1,7 @@
 
 # Developer Salary Analysis: Influence of Database Skills
 
-This project analyzes how a developer’s experience with different database technologies influences their yearly compensation, based on the 2024 Stack Overflow Developer Survey.
+This project analyzes how a developer’s experience with different database technologies influences their yearly compensation, based on the 2024 Stack Overflow Developer Survey.  The Medium Blog post can be found here (https://medium.com/@freemanback17/do-database-skills-really-pay-off-3ed6f9ffff10).
 
 Followed CRISP-DM methodology for the project:
 1. **Business Understanding** – Explore whether database skills are predictive of developer salaries.
