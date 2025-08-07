@@ -24,7 +24,7 @@ Followed CRISP-DM methodology for the project:
 
 - **Python** (pandas, numpy, matplotlib, seaborn, scikit-learn)
 - **Jupyter Notebook**
-- **Stack Overflow Survey 2024**
+- **Stack Overflow Survey 2024** (https://survey.stackoverflow.co/datasets/stack-overflow-developer-survey-2024.zip)
 
 
 ## Files
