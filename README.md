@@ -11,7 +11,7 @@ Followed CRISP-DM methodology for the project:
 5. **Evaluation** – Evaluate performance using R² and MSE.
 6. **Deployment** – Present findings in an annotated Jupyter Notebook.
 
-The notebook addresses three core questions:
+#### The notebook addresses three core questions:
 1. Which databases are associated with higher median yearly salaries?
 2. What does the overall salary distributionl look like (and what does that imply for analysis)?
 3. Can we predict salary from database experience alone (and how good is the prediction)?
